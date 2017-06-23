@@ -1,0 +1,27 @@
+.Expander {
+  border: 1px solid black;
+  border-top: none;
+}
+
+.Expander-title {
+  padding: 1rem;
+  font-weight: bold;
+  text-transform: uppercase;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  cursor: pointer;
+  background: #eee;
+}
+
+.Expander-title:before {
+  content: '+';
+  padding-right: 0.5rem;
+}
+
+.Expander-title.is-active:before {
+  content: '-';
+}
+
+.Expander-content {
+  padding: 1rem;
+}

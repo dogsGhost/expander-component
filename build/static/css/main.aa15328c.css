@@ -1,0 +1,2 @@
+.states .Expander-title{background:#f38}.Expander{border:1px solid #000;border-top:none}.Expander-title{padding:1rem;font-weight:700;text-transform:uppercase;border-top:1px solid #000;border-bottom:1px solid #000;cursor:pointer;background:#eee}.Expander-title:before{content:"+";padding-right:.5rem}.Expander-title.is-active:before{content:"-"}.Expander-content{padding:1rem}*{margin:0;padding:0}body{margin:0 auto;padding:1em 0;font:1em/1.3 sans-serif;width:98%;max-width:42em}h2,p,section{margin:0 0 1rem}
+/*# sourceMappingURL=main.aa15328c.css.map*/
